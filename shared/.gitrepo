@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = /home/rg1011/git_test/tmp/shared
+	branch = master
+	commit = 989002ae90f8c0ee118a1d718cf3c398e728969b
+	parent = d0484e07b649f41ba69f38c16754f425bb76305b
+	method = merge
+	cmdver = 0.4.0
